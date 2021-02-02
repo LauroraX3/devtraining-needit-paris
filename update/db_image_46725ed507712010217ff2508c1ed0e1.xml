@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <format>png</format>
+        <height>32</height>
+        <image/>
+        <name>laptop.png</name>
+        <size_bytes>530</size_bytes>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-18 11:02:58</sys_created_on>
+        <sys_id>46725ed507712010217ff2508c1ed0e1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>laptop.png</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>db_image_46725ed507712010217ff2508c1ed0e1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-18 11:02:58</sys_updated_on>
+        <thumbnail/>
+        <width>32</width>
+    </db_image>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#0</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>image</file_name>
+        <hash>a5d4f77ca371ba9663a07df6be25d59b57b19520e2fec4d4e04615585bdc59f7</hash>
+        <image_height>32</image_height>
+        <image_width>32</image_width>
+        <size_bytes>530</size_bytes>
+        <size_compressed>553</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-18 11:02:58</sys_created_on>
+        <sys_id>ca725ed507712010217ff2508c1ed0e4</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-18 11:02:59</sys_updated_on>
+        <table_name>ZZ_YYdb_image</table_name>
+        <table_sys_id>46725ed507712010217ff2508c1ed0e1</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="ca725ed507712010217ff2508c1ed0e4">ca725ed507712010217ff2508c1ed0e4</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-18 11:02:58</sys_created_on>
+        <sys_id>0e725ed507712010217ff2508c1ed0e4</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>ARIC7f2JUE5HDQoaCgAAAA1JSERSAAAAIAAAACAIBgAAAHN6evQAAAAEc0JJVAgICAh8CGSIAAAACXBIWXMAAADdAAAA3QFwU6IHAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAY9JREFUWIXt1zFrFVEQhuFnNCiCgija2Ah2t1JU0GAhgdxOLFII/gYFQRQrCysbQX+DaSxEG3slgYREiEXQyirYCwqJgozF7g1m2dxssZu1uB8MLOcw873smXN2T2SmPnWgV/f/AWBq9BARB3Edxzr2/IH3mflnBwBu4z4+dQxwHs/wsgpwEm/xBLdwuGXjX3iFx6WXKsBIdzCHtZYBLuBUdbAO4ATeZObzNt0j4l5Ze4d63wUTgLoeWMXPDrzWcBSXxwJk5rsOzGXmB4iI8QARcRGbmfm5TYCIGOBIdbxuCW7gO1oFwBDHq4O9N+EEoK4HfmM6IrZa9ppWfGkP7QXwAg9xtmWAL2XtB7sBBK5hC5tltK27pcf2WfNvD9zEegemVa2XXoXKv+IZLGem/QgsYyYztwEWMWyYPK84qOpivmGNIRZHV4JZLDRMHGBlzPwKBg1rLWA2sISv+Nhg/a7gDF7vMj+Hb+Ur3kuXcC4UXf+0QUIXejSFDe3v+abaCJzGVcU5sJ9KLMXkcto3wF/IbSre3tRtpwAAAABJRU5ErkJggtER3xISAgAA</data>
+        <length>724</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="ca725ed507712010217ff2508c1ed0e4">ca725ed507712010217ff2508c1ed0e4</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-18 11:02:58</sys_created_on>
+        <sys_id>8e725ed507712010217ff2508c1ed0e4</sys_id>
+    </sys_attachment_doc>
+</record_update>
